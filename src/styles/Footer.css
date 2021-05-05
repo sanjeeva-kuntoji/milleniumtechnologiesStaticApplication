@@ -1,0 +1,27 @@
+.footer ul li i{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    color: white;
+    padding-top: 8px;
+    margin-right: 10px;
+}
+.footer ul li a {
+    padding: 0px;
+}
+.footer{
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    background-color: darkblue;
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+
+}
+
+.footer ul { list-style-type:none; text-align:center; margin:0auto; padding:0px; display:block; overflow:hidden;}   
+ 
+.footer ul li { display:inline-block; }
+
+.footer ul li a {display:block; padding:0px 5px 0px 5px;}
+.footer ul li a p {display:block; padding: 0px 30px}

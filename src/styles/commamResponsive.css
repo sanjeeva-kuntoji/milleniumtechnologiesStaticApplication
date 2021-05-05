@@ -1,0 +1,126 @@
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .content{
+        margin: 130px 10px 10px 10px;
+        }
+        .About{
+            margin: 130px 10px 10px 10px;
+        }
+        .product {
+            margin: 130px 10px 10px 10px;
+        }
+        .Contact {
+            margin: 130px 10px 10px 10px;
+
+        }
+        .services{
+            margin: 130px 10px 10px 10px;
+        }
+        .gallery{
+            margin: 130px 10px 10px 10px;
+
+        }
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .content{
+        margin: 120px 10px 10px 10px;
+        
+        }
+        .About{
+            margin: 120px 10px 10px 10px;
+        }
+        .product {
+            margin: 120px 10px 10px 10px;
+        }
+        .Contact {
+            margin: 120px 10px 10px 10px;
+
+        }
+        .services{
+            margin: 120px 10px 10px 10px;
+
+        }
+        .gallery{
+            margin: 120px 10px 10px 10px;
+        }
+
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .content{
+        margin: 130px 20px 10px 20px;
+        }
+        .About{
+            margin: 130px 20px 10px 20px;
+        }
+        .product {
+            margin: 130px 20px 10px 20px;
+        }
+        .Contact {
+            margin: 130px 20px 10px 20px;
+
+        }
+        .services{
+            margin: 130px 20px 10px 20px;
+
+        }
+        .gallery{
+            margin: 130px 20px 10px 20px;
+        }
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .content{
+        margin: 130px 30px 10px 30px;
+        
+        }
+        .About{
+            margin: 130px 30px 10px 30px;
+        }
+        .product {
+            margin: 130px 30px 10px 30px;
+        }
+        .Contact {
+            margin: 130px 30px 10px 30px;
+
+        }
+        .services{
+            margin: 130px 30px 10px 30px;
+
+        }
+        .gallery{
+            margin: 130px 30px 10px 30px;
+        }
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .content{
+        margin: 130px 40px 10px 40px;
+        
+        }
+        .About{
+            margin: 130px 40px 10px 40px;
+
+        }
+        .product {
+            margin: 130px 40px 10px 40px;
+        }
+        .Contact {
+            margin: 130px 40px 10px 40px;
+
+        }
+        .services{
+            margin: 130px 40px 10px 40px;
+
+        }
+        .gallery{
+            margin: 130px 40px 10px 40px;
+        }
+  }

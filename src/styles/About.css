@@ -1,0 +1,18 @@
+
+.About .Company-info p{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+margin-bottom: 20px;
+}
+.About .Company-info .CAPABILITIES{
+    font-family: Arial, Helvetica, sans-serif;
+   color: #00008b;
+   font-size: 20px;
+   font-weight: 800;
+   margin-top: 10px;
+   margin-bottom: 10px;
+    }
+    .About .Company-info ul li{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px; 
+    }

@@ -1,0 +1,94 @@
+
+.product h4{
+    font-size: 20px;
+    color: darkblue;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.product h5{
+    font-size: 18px;
+    color: darkblue;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.product p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 15px;
+    padding-left: 20px;
+    color: black;
+}
+.list ul {
+    margin-left: 30px;
+}
+.list ul li {
+    font-size: 16px;
+    padding: 8px 8px 8px 0px;
+    color: black;
+    list-style: disc;
+}
+#example-collapse-text .list ul li {
+    font-size: 13px;
+    padding: 8px 8px 8px 0px;
+    color: black;
+}
+.list h5{
+    padding-left: 15px;
+    color: darkblue;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.list h6{
+    padding-left: 20px;
+    color: black;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.row .col-md-03{
+    margin: 0px 10px;
+}
+.row .col-md-04{
+    margin: 0px 10px;
+}
+.row .col-md-03 .single .polaroid img{
+    width: 280px ;
+    height: 250px ;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 17px;
+    object-fit: cover;
+}
+
+.images .row{
+    margin: 5px;
+    text-align: center;
+    justify-content: space-around;
+}
+  .container {
+    text-align: center;
+    padding: 0px;
+  }
+  .container p{
+      padding: 0px;
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 12px;
+    font-weight: 900;
+  }
+  .row .col-md-04 .single .polaroid img{
+    width: 380px;
+    height: 250px ;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 17px;
+    object-fit: cover;
+}
+.more:hover{
+    cursor: pointer;
+    color: blue;
+}

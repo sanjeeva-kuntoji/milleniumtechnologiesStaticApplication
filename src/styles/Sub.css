@@ -1,0 +1,31 @@
+.navbar {
+    background-color: darkblue;
+    color: white;
+    justify-content: space-between;
+    padding-bottom: 0px;
+}
+ .navbar .nav-link {
+    color: white;
+    padding: 0px 25px;
+    font-size: 18px;
+    border-bottom: 5px solid darkblue;
+}
+.navbar .nav-link:hover{
+    color: white;
+    padding: 0px 25px;
+    font-size: 18px;
+border-bottom: 5px solid white;
+}
+.navbar .nav-link:active ::after{
+    color: white;
+    padding: 0px 25px;
+    font-size: 18px;
+border-bottom: 5px solid white;
+}
+.navbar-light .navbar-toggler {
+    color: black;
+    background-color: white;
+}
+.mr-auto, .mx-auto {
+     margin: auto; 
+}
